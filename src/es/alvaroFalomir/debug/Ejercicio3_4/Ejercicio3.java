@@ -7,7 +7,7 @@ public class Ejercicio3
       test("aardvark"); // resultado esperado: a
       test("roommate"); // resultado esperado: o (no m)
       test("mate"); // resultado esperado: 0 (No hay caracteres repetidos.)
-      test("test");  /* resultado esperado: 0 (No hay caracteres repetidos... 
+      test("test");  /* resultado esperado: 0 (No hay caracteres repetidos.... 
                         * la letra t se repite pero no de manera adyacente)
                         */
    }
